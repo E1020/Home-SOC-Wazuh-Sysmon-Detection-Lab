@@ -43,22 +43,22 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### Wazuh Agent Overview  
-![Scenario 1 Agent List](screenshots/scenario1/s1-agent-list.png)
+![Scenario 1 Agent List](screenshots/scenario1/scenario1/s1-agent-list.png)
 
 #### Alerts (Filtered View)  
-![Scenario 1 Alerts](screenshots/scenario1/s1-alerts-overview.png)
+![Scenario 1 Alerts](screenshots/scenario1/scenario1/s1-alerts-overview.png)
 
 #### Event JSON  
-![Scenario 1 Event JSON](screenshots/scenario1/s1-event-json.png)
+![Scenario 1 Event JSON](screenshots/scenario1/scenario1/s1-event-json.png)
 
 #### Executable File Creation  
-![Scenario 1 File Create](screenshots/scenario1/s1-file-create.png)
+![Scenario 1 File Create](screenshots/scenario1/scenario1/s1-file-create.png)
 
 #### Installation Execution  
-![Scenario 1 Installation](screenshots/scenario1/s1-chrome-install.png)
+![Scenario 1 Installation](screenshots/scenario1/scenario1/s1-chrome-install.png)
 
 #### Windows Event Log  
-![Scenario 1 Security Log](screenshots/scenario1/s1-security-log.png)
+![Scenario 1 Security Log](screenshots/scenario1/scenario1/s1-security-log.png)
 
 ---
 
@@ -68,19 +68,19 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### Hydra Attack Execution  
-![Scenario 2 Hydra](screenshots/scenario2/s2-hydra-bruteforce.png)
+![Scenario 2 Hydra](screenshots/scenario2/scenario2/s2-hydra-bruteforce.png)
 
 #### MITRE T1110 Mapping  
-![Scenario 2 MITRE](screenshots/scenario2/s2-mitre-t1110.png)
+![Scenario 2 MITRE](screenshots/scenario2/scenario2/s2-mitre-t1110.png)
 
 #### Windows Admin Terminal  
-![Scenario 2 Admin Terminal](screenshots/scenario2/s2-admin-terminal.png)
+![Scenario 2 Admin Terminal](screenshots/scenario2/scenario2/s2-admin-terminal.png)
 
 #### Wazuh Brute Force Alerts  
-![Scenario 2 Wazuh Alerts](screenshots/scenario2/s2-wazuh-alerts.png)
+![Scenario 2 Wazuh Alerts](screenshots/scenario2/scenario2/s2-wazuh-alerts.png)
 
 #### Windows Machine IP  
-![Scenario 2 Windows IP](screenshots/scenario2/s2-windows-ip.png)
+![Scenario 2 Windows IP](screenshots/scenario2/scenario2/s2-windows-ip.png)
 
 ---
 
@@ -90,16 +90,16 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### PowerShell Execution  
-![Scenario 3 Admin PowerShell](screenshots/scenario3/s3-admin-powershell.png)
+![Scenario 3 Admin PowerShell](screenshots/scenario3/scenario3/s3-admin-powershell.png)
 
 #### Encoded Command  
-![Scenario 3 Encoded Command](screenshots/scenario3/s3-encoded-command.png)
+![Scenario 3 Encoded Command](screenshots/scenario3/scenario3/s3-encoded-command.png)
 
 #### MITRE Mapping  
-![Scenario 3 MITRE](screenshots/scenario3/s3-mitre-t1059.png)
+![Scenario 3 MITRE](screenshots/scenario3/scenario3/s3-mitre-t1059.png)
 
 #### Wazuh Alerts  
-![Scenario 3 Wazuh Alerts](screenshots/scenario3/s3-wazuh-alerts.png)
+![Scenario 3 Wazuh Alerts](screenshots/scenario3/scenario3/s3-wazuh-alerts.png)
 
 ---
 
@@ -109,19 +109,19 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### File Modification Command  
-![Scenario 4 Admin File Change](screenshots/scenario4/s4-admin-file-change.png)
+![Scenario 4 Admin File Change](screenshots/scenario4/scenario4/s4-admin-file-change.png)
 
 #### Sysmon Event ID 11 (FileCreate)  
-![Scenario 4 Event 11](screenshots/scenario4/s4-filecreate-event11.png)
+![Scenario 4 Event 11](screenshots/scenario4/scenario4/s4-filecreate-event11.png)
 
 #### Sysmon Event ID 1  
-![Scenario 4 Event 1](screenshots/scenario4/s4-eventid1.png)
+![Scenario 4 Event 1](screenshots/scenario4/scenario4/s4-eventid1.png)
 
 #### MITRE Mapping  
-![Scenario 4 MITRE](screenshots/scenario4/s4-mitre-t1565.png)
+![Scenario 4 MITRE](screenshots/scenario4/scenario4/s4-mitre-t1565.png)
 
 #### Windows Security Log  
-![Scenario 4 Security Log](screenshots/scenario4/s4-security-log.png)
+![Scenario 4 Security Log](screenshots/scenario4/scenario4/s4-security-log.png)
 
 ---
 
@@ -131,16 +131,16 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### Admin + Privilege Escalation Testing  
-![Scenario 5 Admin PrivEsc](screenshots/scenario5/s5-admin-priv-esc.png)
+![Scenario 5 Admin PrivEsc](screenshots/scenario5/scenario5/s5-admin-priv-esc.png)
 
 #### Windows Security Info  
-![Scenario 5 Security Info](screenshots/scenario5/s5-security-info.png)
+![Scenario 5 Security Info](screenshots/scenario5/scenario5/s5-security-info.png)
 
 #### Wazuh Alerts  
-![Scenario 5 Wazuh](screenshots/scenario5/s5-wazuh-alerts.png)
+![Scenario 5 Wazuh](screenshots/scenario5/scenario5/s5-wazuh-alerts.png)
 
 #### MITRE Mapping  
-![Scenario 5 MITRE](screenshots/scenario5/s5-mitre-priv-esc.png)
+![Scenario 5 MITRE](screenshots/scenario5/scenario5/s5-mitre-priv-esc.png)
 
 ---
 
@@ -150,22 +150,22 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### First Command Execution  
-![Scenario 6 First Command](screenshots/scenario6/s6-admin-first-command.png)
+![Scenario 6 First Command](screenshots/scenario6/scenario6/s6-admin-first-command.png)
 
 #### Second Command Execution  
-![Scenario 6 Second Command](screenshots/scenario6/s6-second-command.png)
+![Scenario 6 Second Command](screenshots/scenario6/scenario6/s6-second-command.png)
 
 #### Third Command Execution  
-![Scenario 6 Third Command](screenshots/scenario6/s6-third-command.png)
+![Scenario 6 Third Command](screenshots/scenario6/scenario6/s6-third-command.png)
 
 #### MITRE Mapping  
-![Scenario 6 MITRE](screenshots/scenario6/s6-mitre-t1105.png)
+![Scenario 6 MITRE](screenshots/scenario6/scenario6/s6-mitre-t1105.png)
 
 #### Security Log Details  
-![Scenario 6 Security Log Info](screenshots/scenario6/s6-security-log-info.png)
+![Scenario 6 Security Log Info](screenshots/scenario6/scenario6/s6-security-log-info.png)
 
 #### Security Log Summary  
-![Scenario 6 Security Log](screenshots/scenario6/s6-security-log.png)
+![Scenario 6 Security Log](screenshots/scenario6/scenario6/s6-security-log.png)
 
 ---
 
