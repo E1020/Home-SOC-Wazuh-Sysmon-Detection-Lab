@@ -43,7 +43,7 @@ Below are all 6 attack simulations with screenshots and MITRE mappings.
 
 ### 📸 Screenshots
 #### Wazuh Agent Overview  
-![Scenario 1 Agent List](screenshots/scenario1/scenario1/s1-agent-list.png)
+![Scenario 1 Agent List](screenshots/scenario1/scenario1/s1 windos security event.png)
 
 #### Alerts (Filtered View)  
 ![Scenario 1 Alerts](screenshots/scenario1/scenario1/s1-alerts-overview.png)
